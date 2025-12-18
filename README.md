@@ -7,7 +7,7 @@
 
 | Active/Inactive                                                   | Active Dates            |
 |-------------------------------------------------------------------|-------------------------|
-| ![Status](https://img.shields.io/badge/status-active-brightgreen) | 10/10/2025 - 12/17/2025 |
+| ![Status](https://img.shields.io/badge/status-inactive-lightgrey) | 10/10/2025 - 12/17/2025 |
 
 ### 📝 Description
 Contains a collection of my first two capstone projects. <br>
