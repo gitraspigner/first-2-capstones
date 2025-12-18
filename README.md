@@ -1,4 +1,4 @@
-# Year Up United / Pluralsight - (First 2) Java Capstones (Ravi's Solutions)
+# Year Up United / Pluralsight - (First 2) Java Capstones
 ## Course Taught By: Maaike Van Putten
 
 ### 🛠️ Tools Used
